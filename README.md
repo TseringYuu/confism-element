@@ -1,6 +1,11 @@
 # confism-element
 > write HTML with javascript in vue
 
+## install
+```shell
+npm install confism-element -S
+```
+
 ### U can register confism-element component in main.js
 
 ```javascript
